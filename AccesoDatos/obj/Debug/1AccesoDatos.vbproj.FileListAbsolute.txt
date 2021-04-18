@@ -1,0 +1,26 @@
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\obj\Debug\1AccesoDatos.vbprojResolveAssemblyReference.cache
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\obj\Debug\1AccesoDatos.vbproj.GenerateResource.Cache
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\bin\Debug\1AccesoDatos.dll
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\bin\Debug\1AccesoDatos.pdb
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\bin\Debug\1AccesoDatos.xml
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\bin\Debug\3Entidades.dll
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\bin\Debug\3Entidades.pdb
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\bin\Debug\3Entidades.xml
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\obj\Debug\_1AccesoDatos.Resources.resources
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\obj\Debug\1AccesoDatos.dll
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\obj\Debug\1AccesoDatos.xml
+c:\users\anoni\onedrive\documents\visual studio 2015\Projects\SISPLANI\AccesoDatos\obj\Debug\1AccesoDatos.pdb
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\bin\Debug\1AccesoDatos.dll
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\bin\Debug\1AccesoDatos.pdb
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\bin\Debug\1AccesoDatos.xml
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\bin\Debug\3Entidades.dll
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\bin\Debug\3Entidades.pdb
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\bin\Debug\3Entidades.xml
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\_1AccesoDatos.Resources.resources
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.vbproj.CopyComplete
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.dll
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.xml
+C:\Users\Luis Alejandro\Documents\RespaldoLlaveUlatina\SisPlani\AccesoDatos\obj\Debug\1AccesoDatos.pdb

@@ -1,0 +1,15 @@
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\2LogicaNegocios.dll
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\2LogicaNegocios.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\2LogicaNegocios.xml
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\1AccesoDatos.dll
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\3Entidades.dll
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\1AccesoDatos.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\1AccesoDatos.xml
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\3Entidades.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\bin\Debug\3Entidades.xml
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\obj\Debug\2LogicaNegocios.vbprojResolveAssemblyReference.cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\obj\Debug\_2LogicaNegocios.Resources.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\obj\Debug\2LogicaNegocios.vbproj.GenerateResource.Cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\obj\Debug\2LogicaNegocios.dll
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\obj\Debug\2LogicaNegocios.xml
+c:\users\laboratorio\documents\visual studio 2015\Projects\SisPlani\2LogicaNegocios\obj\Debug\2LogicaNegocios.pdb

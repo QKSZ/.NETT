@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+3Entidades
+</name>
+</assembly>
+<members>
+<member name="T:_3Entidades.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_3Entidades.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_3Entidades.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:_3Entidades.EmpleadoEN.#ctor">
+ <summary>
+ Constructor de inicializacion vacia del objeto
+ </summary>
+</member>
+<member name="M:_3Entidades.EmpleadoEN.#ctor(System.String,System.String,System.DateTime,System.Int32,System.Double,System.Boolean)">
+ <summary>
+ Recibe todos los valores del objeto
+ </summary>
+ <param name="pCedula">ID del empleado</param>
+ <param name="pNombre">Nombre completo</param>
+ <param name="pFecha">Fecha de ingreso</param>
+ <param name="pHoras">Horas trabajadas por semana</param>
+ <param name="pPrecio">Precio de cada hora</param>
+ <param name="pActivo">Indica si esta activo el elmpleado</param>
+</member>
+<member name="M:_3Entidades.EmpleadoEN.ToString">
+ <summary>
+ Retorna en formato cadena el objeto
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:_3Entidades.EmpleadoEN.SalarioBruto">
+ <summary>
+ Salario del empleado sin deducciones
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:_3Entidades.EmpleadoEN.Cedula">
+ <summary>
+ ID del empleado
+ </summary>
+ <returns>ID del empleado</returns>
+</member>
+<member name="P:_3Entidades.EmpleadoEN.NombreCompleto">
+ <summary>
+ Nombre completo
+ </summary>
+ <returns>Nombre completo</returns>
+</member>
+<member name="P:_3Entidades.EmpleadoEN.Fecha">
+ <summary>
+ Fecha de ingreso
+ </summary>
+ <returns>Fecha de ingreso</returns>
+</member>
+<member name="P:_3Entidades.EmpleadoEN.Horas">
+ <summary>
+ Horas trabajadas por semana
+ </summary>
+ <returns>Horas trabajadas por semana</returns>
+</member>
+<member name="P:_3Entidades.EmpleadoEN.PrecioHora">
+ <summary>
+ Precio de cada hora
+ </summary>
+ <returns>Precio de cada hora</returns>
+</member>
+<member name="P:_3Entidades.EmpleadoEN.Activo">
+ <summary>
+ Indica si esta activo el elmpleado
+ </summary>
+ <returns>Indica si esta activo el elmpleado</returns>
+</member>
+</members>
+</doc>

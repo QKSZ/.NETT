@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+3Entidades
+</name>
+</assembly>
+<members>
+<member name="T:_3Entidades.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:_3Entidades.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:_3Entidades.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:_3Entidades.empleadoEN.#ctor">
+ <summary>
+ Constructor de inicilizacion vacia del objeto
+ </summary>
+</member>
+<member name="M:_3Entidades.empleadoEN.#ctor(System.String,System.String,System.DateTime,System.Int32,System.Double,System.Boolean)">
+ <summary>
+ Recibe todos los valores del objeto
+ </summary>
+ <param name="pCedula">Id del empleado</param>
+ <param name="pNombre">Nombre completo</param>
+ <param name="pFecha">Fecha de ingreso</param>
+ <param name="pHoras">Horas trabajadas por semana</param>
+ <param name="pPrecio">Precio de cada hora</param>
+ <param name="pActivo">Indica si esta activo el empleado</param>
+</member>
+<member name="P:_3Entidades.empleadoEN.Cedula">
+ <summary>
+ Id del Empleado
+ </summary>
+ <returns>Id del empleado</returns>
+</member>
+<member name="P:_3Entidades.empleadoEN.NombreCompleto">
+ <summary>
+ Nombre Completo
+ </summary>
+ <returns>Nombre Completo</returns>
+</member>
+<member name="P:_3Entidades.empleadoEN.FechaIngreso">
+ <summary>
+ Fecha de Ingreso a la empresa
+ </summary>
+ <returns>Fecha de Ingreso a la empresa</returns>
+</member>
+<member name="P:_3Entidades.empleadoEN.HorasTrabajadas">
+ <summary>
+ Horas trabajadas por semana
+ </summary>
+ <returns>Horas trabajadas por semana</returns>
+</member>
+<member name="P:_3Entidades.empleadoEN.PrecioHora">
+ <summary>
+ Precio de cada hora
+ </summary>
+ <returns>Precio de cada hora</returns>
+</member>
+<member name="P:_3Entidades.empleadoEN.IndicadorActivo">
+ <summary>
+ Indica si esta activo el empleado
+ </summary>
+ <returns>Indica si esta activo el empleado</returns>
+</member>
+<member name="M:_3Entidades.empleadoEN.SalarioBruto">
+ <summary>
+ Salario del empleado sin deducciones
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>
